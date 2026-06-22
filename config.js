@@ -1,5 +1,5 @@
 const config = {
     localStoragePrefix: "ceui-sorter",
-    title: "ceui",
+    title: "Ceui",
     description: "Party rank sorter for your custom list of songs."
 };
